@@ -1,0 +1,5 @@
+{
+  "name": "GlassQuiz AI",
+  "description": "A beautiful, glassmorphic quiz generator powered by Gemini & Gemma. Upload documents, configure your model, and generate interactive quizzes instantly.",
+  "requestFramePermissions": []
+}
